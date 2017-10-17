@@ -4,7 +4,7 @@
 	Import->Maven->Existing Maven Projects
 
 3. 	If you want to run application from eclipse
-	Command from eclipse: - springboot:run
+	Command from eclipse: - spring-boot:run
 	Right click the main class (AppConfig), add command line arguments and run as java application.
 	
 	If you want to run from command prompt
